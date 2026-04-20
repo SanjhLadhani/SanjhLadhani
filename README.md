@@ -10,9 +10,9 @@
 
 ## 👩‍💻 About Me
 
-<table>
-<tr>
-<td width="65%">
+<table style="border: none;">
+<tr style="border: none;">
+<td width="65%" style="border: none;">
 
 🎓 BCA Graduate | 📚 MSc in Data Science (ongoing)
 
@@ -28,9 +28,9 @@
 
 </td>
 
-<td width="35%" align="right">
+<td width="35%" align="right" style="border: none;">
 
-<img src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/main/g9r1bfyqxdrmt0cxn8prpfcy9w.gif" width="220" style="border-radius: 12px;">
+<img src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/main/g9r1bfyqxdrmt0cxn8prpfcy9w.gif" width="220">
 
 </td>
 </tr>
