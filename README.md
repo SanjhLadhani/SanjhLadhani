@@ -10,7 +10,10 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="220" style="border-radius: 12px;" src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/main/g9r1bfyqxdrmt0cxn8prpfcy9w.gif">
+<table>
+<tr>
+<td width="65%">
+
 🎓 BCA Graduate | 📚 MSc in Data Science (ongoing)
 
 💼 AI/ML Engineer at i-Sourcing Technologies Pvt. Ltd.
@@ -23,6 +26,15 @@
 
 ⚡ I focus on real-world AI — not just notebooks
 
+</td>
+
+<td width="35%" align="right">
+
+<img src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/main/g9r1bfyqxdrmt0cxn8prpfcy9w.gif" width="220" style="border-radius: 12px;">
+
+</td>
+</tr>
+</table>
 
 ---
 
