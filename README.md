@@ -10,16 +10,18 @@
 
 ## 👩‍💻 About Me
 
-🎓 CSE Student passionate about AI & real-world problem solving
+🎓 BCA Graduate | 📚 MSc in Data Science (ongoing)
+
 💼 AI/ML Engineer at i-Sourcing Technologies Pvt. Ltd.
 🧠 Former AI Intern at Brainy Neurals
 
-🚀 I build systems from **idea → prototype → production**
-🤖 Currently working on **AI Calling & Automation Systems**
+🚀 Building scalable AI systems from **idea → prototype → production**
+🤖 Currently working on **AI Calling, Automation, and LLM-based solutions**
 
-📫 Email: [sanjhladhani2020@gmail.com](mailto:yourmail@gmail.com)
+📫 [sanjhladhani2020@gmail.com](mailto:sanjhladhani2020@gmail.com)
 
-⚡ Fun fact: I debug faster than I decide what to eat 😄
+⚡ I focus on real-world AI — not just notebooks
+
 
 ---
 
