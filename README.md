@@ -10,6 +10,8 @@
 
 ## 👩‍💻 About Me
 
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 🎓 BCA Graduate | 📚 MSc in Data Science (ongoing)
 
 💼 AI/ML Engineer at i-Sourcing Technologies Pvt. Ltd.
@@ -70,7 +72,7 @@ Smart surveillance system using AI:
 
 ### 👨‍💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🤖 AI/ML
 
@@ -80,7 +82,7 @@ Smart surveillance system using AI:
 
 ### ⚙️ Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-000000?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge)
 
@@ -107,8 +109,8 @@ Smart surveillance system using AI:
 ## 🤝 Connect With Me
 
 * 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-* 🌐 Portfolio: [https://your-portfolio.vercel.app](https://sanjhladhani.netlify.app/)
-* 📧 Email: [sanjhladhani2020@gmail.com](mailto:yourmail@gmail.com)
+* 🌐 Portfolio: https://sanjhladhani.netlify.app/
+* 📧 Email: sanjhladhani2020@gmail.com
 
 
 ⭐ If you find my work interesting, feel free to explore my repositories!
