@@ -10,9 +10,7 @@
 
 ## 👩‍💻 About Me
 
-<table style="border: none;">
-<tr style="border: none;">
-<td width="65%" style="border: none;">
+<img align="right" width="220" src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/main/g9r1bfyqxdrmt0cxn8prpfcy9w.gif">
 
 🎓 BCA Graduate | 📚 MSc in Data Science (ongoing)
 
@@ -26,15 +24,8 @@
 
 ⚡ I focus on real-world AI — not just notebooks
 
-</td>
+<br clear="right"/>
 
-<td width="35%" align="right" style="border: none;">
-
-<img src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/main/g9r1bfyqxdrmt0cxn8prpfcy9w.gif" width="220">
-
-</td>
-</tr>
-</table>
 
 ---
 
