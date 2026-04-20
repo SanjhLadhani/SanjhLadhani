@@ -10,8 +10,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="220" style="border-radius: 12px;" src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/main/output-onlinegiftools.gif">
-
+<img align="right" width="220" style="border-radius: 12px;" src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/main/animate_this_character_with_a_subtle_natural_hand_wave%2C_gentle_blinking%2C_smooth_loop%2C_minimal_moveme_seed4051784167.gif">
 🎓 BCA Graduate | 📚 MSc in Data Science (ongoing)
 
 💼 AI/ML Engineer at i-Sourcing Technologies Pvt. Ltd.
