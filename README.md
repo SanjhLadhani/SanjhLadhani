@@ -12,61 +12,68 @@
 
 <img align="right" width="220" src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/main/g9r1bfyqxdrmt0cxn8prpfcy9w.gif">
 
-🎓 BCA Graduate | 📚 MSc in Data Science (ongoing)
+🎓 **BCA Graduate** | 📚 **MSc in Data Science (ongoing)**
 
-💼 AI/ML Engineer at i-Sourcing Technologies Pvt. Ltd.
+💼 **AI/ML Engineer** at i-Sourcing Technologies Pvt. Ltd.
 🧠 Former AI Intern at Brainy Neurals
 
 🚀 Building scalable AI systems from **idea → prototype → production**
 🤖 Currently working on **AI Calling, Automation, and LLM-based solutions**
 
-📫 [sanjhladhani2020@gmail.com](mailto:sanjhladhani2020@gmail.com)
+📫 **Email:** [sanjhladhani2020@gmail.com](mailto:sanjhladhani2020@gmail.com)
 
-⚡ I focus on real-world AI — not just notebooks
+⚡ *Focused on real-world AI — not just notebooks*
 
 <br clear="right"/>
 
+---
+
+<p align="center">
+  <b>💡 Real-world AI systems built for production, not just demos</b>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
+---
+
 ### 🏀 Basketball Analysis with AI
 
-**Tech Stack:** Python, Computer Vision, Beam, NVR
+**🛠️ Tech:** Python • Computer Vision • Beam • NVR
 
 AI-powered sports analytics system:
 
-* Real-time player tracking using video feeds
-* Camera-based analysis with NVR systems
-* Performance insights & movement detection
-* Scalable pipeline for live processing
+* 🎯 Real-time player tracking using video feeds
+* 📹 Camera-based analysis with NVR systems
+* 📊 Performance insights & movement detection
+* ⚡ Scalable pipeline for live processing
 
 ---
 
 ### 📞 AI Calling Automation System
 
-**Tech Stack:** Python, APIs, LLMs
+**🛠️ Tech:** Python • APIs • LLMs
 
 Production-ready AI calling solution:
 
-* Automated outbound & inbound calling workflows
-* LLM-based intelligent conversation handling
-* API integrations for real-time decision making
-* Scalable system for business automation
+* 🤖 Automated outbound & inbound calling workflows
+* 🧠 LLM-based intelligent conversation handling
+* 🔗 API integrations for real-time decisions
+* ⚡ Scalable system for business automation
 
 ---
 
 ### 🎥 NVR Camera AI Analysis
 
-**Tech Stack:** Computer Vision, Deep Learning
+**🛠️ Tech:** Computer Vision • Deep Learning
 
-Smart surveillance system using AI:
+Smart surveillance system:
 
-* Object detection & tracking
-* Real-time camera feed analysis
-* Event-based alert system
-* Optimized for production environments
+* 👁️ Object detection & tracking
+* 📡 Real-time video analysis
+* 🚨 Event-based alert system
+* ⚙️ Optimized for production
 
 ---
 
@@ -74,7 +81,7 @@ Smart surveillance system using AI:
 
 ### 👨‍💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### 🤖 AI/ML
 
@@ -84,7 +91,7 @@ Smart surveillance system using AI:
 
 ### ⚙️ Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-000000?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge)
 
@@ -112,7 +119,10 @@ Smart surveillance system using AI:
 
 * 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
 * 🌐 Portfolio: https://sanjhladhani.netlify.app/
-* 📧 Email: sanjhladhani2020@gmail.com
+* 📧 Email: [sanjhladhani2020@gmail.com](mailto:sanjhladhani2020@gmail.com)
 
+---
 
+<p align="center">
 ⭐ If you find my work interesting, feel free to explore my repositories!
+</p>
