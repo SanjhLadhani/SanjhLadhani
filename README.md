@@ -108,22 +108,5 @@ Smart surveillance system using AI:
 * 🌐 Portfolio: [https://your-portfolio.vercel.app](https://sanjhladhani.netlify.app/)
 * 📧 Email: [sanjhladhani2020@gmail.com](mailto:yourmail@gmail.com)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjhLadhani&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SanjhLadhani&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjhLadhani&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ⭐ If you find my work interesting, feel free to explore my repositories!
