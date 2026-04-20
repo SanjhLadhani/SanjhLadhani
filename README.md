@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="220" style="border-radius: 12px;" src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/main/output-onlinegiftools.gif">
 
 🎓 BCA Graduate | 📚 MSc in Data Science (ongoing)
 
