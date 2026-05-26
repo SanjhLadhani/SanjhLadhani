@@ -12,7 +12,7 @@
 
 <img align="right" width="120" src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/main/g9r1bfyqxdrmt0cxn8prpfcy9w.gif">
 
-🎓 **BCA Graduate** | 📚 **MSc in Data Science (ongoing)**
+🎓 **BCA Graduate** | 📚 **MSc in Data Science**
 
 💼 **AI/ML Engineer** at i-Sourcing Technologies Pvt. Ltd.
 🧠 Former AI Intern at Brainy Neurals
