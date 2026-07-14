@@ -1,141 +1,171 @@
-<!-- ══════════════════════════════ HEADER ══════════════════════════════ -->
+<!-- ═══════════════════════════════════ HEADER ═══════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=760&lines=AI%2FML+Engineer;Building+Real-World+AI+Systems;Computer+Vision+%7C+LLMs+%7C+Automation;Turning+Ideas+Into+Production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+%7C+Computer+Vision;Training+YOLO+Models+on+25k%2B+Images;Real-Time+Inference+Deployed+on+AWS;LLMs+%7C+RAG+%7C+Intelligent+Automation;From+Idea+%E2%86%92+Prototype+%E2%86%92+Production" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sanjh Ladhani</h1>
 <h3 align="center">🚀 AI/ML Engineer &nbsp;•&nbsp; Computer Vision &nbsp;•&nbsp; LLMs &nbsp;•&nbsp; Automation</h3>
 
 <p align="center">
-  <a href="https://sanjhladhani.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=firefoxbrowser&logoColor=black" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sanjhladhani2020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://sanjhladhani.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=firefoxbrowser&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sanjh-ladhani-data-science"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/sanjhladhani"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://x.com/SanjhLadhani"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:sanjhladhani2020@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://sanjhladhani.netlify.app/Sanjh_ladhani_resume.pdf"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=SanjhLadhani&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- ══════════════════════════════ ABOUT ══════════════════════════════ -->
+<!-- Impact snapshot -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_1st_Place-ARIC_2024--25-00F7FF?style=flat-square" alt="Award" />
+  <img src="https://img.shields.io/badge/📸_Trained_On-25k%2B_Images-8A2BE2?style=flat-square" alt="Images" />
+  <img src="https://img.shields.io/badge/⚡_Inference-35%25_Faster-2ea44f?style=flat-square" alt="Speed" />
+  <img src="https://img.shields.io/badge/🎯_Detection-92%25_Accuracy-FF6F00?style=flat-square" alt="Accuracy" />
+  <img src="https://img.shields.io/badge/📈_mAP-0.62→0.78-0A66C2?style=flat-square" alt="mAP" />
+</p>
 
-## 👨‍💻 About Me
+<!-- ═══════════════════════════════════ ABOUT ═══════════════════════════════════ -->
+
+## 👩‍💻 About Me
 
 <img align="right" width="150" src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/main/g9r1bfyqxdrmt0cxn8prpfcy9w.gif" alt="coding animation" />
 
-- 🎓 **BCA Graduate** &nbsp;|&nbsp; 📚 **MSc in Data Science**
-- 💼 **AI/ML Engineer** @ **i-Sourcing Technologies Pvt. Ltd.**
-- 🧠 Former **AI Intern** @ **Brainy Neurals**
-- 🚀 I build scalable AI systems from **idea → prototype → production**
-- 🤖 Currently focused on **AI Calling, Automation & LLM-based solutions**
-- ⚡ *Obsessed with real-world AI — not just notebooks*
-- 📫 Reach me at **sanjhladhani2020@gmail.com**
+- 🎓 **MSc in Data Science** @ Institute of Advanced Research &nbsp;|&nbsp; **BCA** — Gujarat University *All-Time Ranker* (CGPA 8.94)
+- 💼 **AI/ML Engineer** @ **i-Sourcing Technologies** — building LLM & automation pipelines
+- 🧠 Former **AI Intern** @ **Brainy Neurals** — computer vision & real-time inference
+- 🏀 I train **YOLO / RF-DETR** models on **25k+ images** and ship real-time CV to production
+- 🤖 Focused on **Computer Vision, LLMs, RAG & intelligent automation**
+- 🏆 **1st Place — ARIC 2024–25** · Prerna Award for Academic Excellence
+- 📫 **sanjhladhani2020@gmail.com** &nbsp;·&nbsp; 📍 Ahmedabad, India
+- ⚡ *Real-world AI — not just notebooks*
 
 <br clear="right"/>
 
-<!-- ══════════════════════════════ TECH STACK ══════════════════════════════ -->
+<!-- ═══════════════════════════════════ STACK ═══════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
 
-<sub>The tools I use to take AI from concept to production.</sub>
+<sub>Everything I use to take AI from concept to production.</sub>
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,mysql,mongodb,sqlite,tensorflow,sklearn,opencv,flask,fastapi,docker,aws,git,github,linux,anaconda,vscode&perline=10&theme=dark" alt="Tech stack" />
+</p>
 
-**AI / ML / Data**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+**🧠 AI / ML Specialties**  
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00B8D4?style=for-the-badge)
+![RF-DETR](https://img.shields.io/badge/RF--DETR-5C3EE8?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
+![BERT / GPT](https://img.shields.io/badge/BERT_%2F_GPT-3776AB?style=for-the-badge)
+![CNN / RNN](https://img.shields.io/badge/CNN_%2F_RNN-000000?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**LLMs & GenAI**  
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Backend & APIs**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=postman&logoColor=white)
-
-**Tools & Deployment**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<!-- ══════════════════════════════ PROJECTS ══════════════════════════════ -->
+<!-- ═══════════════════════════════════ PROJECTS ═══════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
-### 🏀 Basketball Analysis with AI
-> Real-time sports analytics that turns raw video into player insights.
+### 🏀 Basketball Detection & Tracking
+> Multi-task sports analytics — player, jersey & action detection.
 
-`Python` · `Computer Vision` · `NVR` · `Real-Time Processing`
+`RF-DETR` · `YOLOv8` · `OpenCV` · `Python`
 
-- 🎯 Real-time player tracking from live video feeds
-- 📹 Camera-based analysis integrated with NVR systems
-- 📊 Performance insights & movement detection
-- ⚡ Scalable pipeline built for live processing
+- 🎯 Player tracking, jersey-number recognition & action detection
+- 📈 Improved **mAP from 0.62 → 0.78** on 25k+ annotated images
+- ⚡ Real-time inference with GPU acceleration
+- ☁️ Trained & deployed on **AWS (EC2 + S3)**
 
-### 📞 AI Calling Automation System
-> Production-ready voice automation powered by LLMs.
+### ⛑️ SanjhSuraksha — Safety Helmet Detection
+> Production YOLOv8 system monitoring PPE compliance in open-cast mines.
 
-`Python` · `LLMs` · `APIs` · `Automation`
+`YOLOv8` · `OpenCV` · `Real-Time CV` · `Python`
 
-- 🤖 Automated inbound & outbound calling workflows
-- 🧠 LLM-driven intelligent conversation handling
-- 🔗 API integrations for real-time decisioning
-- ⚡ Scalable system for business automation
+- 👷 Detects helmet compliance from live video streams
+- 🎯 **92% detection accuracy** — deployed & production-ready
+- 🚨 Real-time safety alerting
 
-### 🎥 NVR Camera AI Analysis
-> Smart surveillance with real-time detection and alerts.
+### 🗣️ SAYANK.AI — Voice Assistant
+> Multi-modal AI assistant with speech, NLP & external APIs.
 
-`Computer Vision` · `Deep Learning` · `Real-Time`
+`NLP` · `Speech Recognition` · `TTS` · `APIs`
 
-- 👁️ Object detection & multi-object tracking
-- 📡 Real-time video stream analysis
-- 🚨 Event-based alerting system
-- ⚙️ Optimized and deployed for production
+- 🎙️ Speech recognition + text-to-speech
+- 🧠 NLP intent handling with live API integrations
+- 💡 Neural-inspired animated GUI
 
-<!-- ══════════════════════════════ STATS ══════════════════════════════ -->
+### 🔗 n8n Lead-Gen Automation
+> No-code workflow automating capture → enrich → route.
 
-## 📊 GitHub Stats
+`n8n` · `Webhooks` · `CRM` · `Automation`
+
+- 🤖 Automated lead capture, enrichment & routing
+- 📉 Cut manual effort by **~70%**
+- 🔌 Email, Google Sheets & CRM integrations
+
+<sub>🔎 More on my <a href="https://sanjhladhani.netlify.app/">portfolio</a> — emotion-based music & book recommenders, an AES-256 steganography tool, and more.</sub>
+
+<!-- ═══════════════════════════════════ ANALYTICS ═══════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<!-- Contribution snake — requires the snake.yml GitHub Action (see setup notes). -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/output/github-snake.svg" />
+  </picture>
+</p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SanjhLadhani&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=00F7FF&icon_color=00F7FF" alt="Sanjh's GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SanjhLadhani&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=86400&theme=tokyonight&title_color=00F7FF&icon_color=00F7FF" alt="Sanjh's GitHub stats" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=SanjhLadhani&hide_border=true&theme=tokyonight&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjhLadhani&layout=compact&hide_border=true&theme=tokyonight&title_color=00F7FF" alt="Top languages" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjhLadhani&layout=compact&hide_border=true&cache_seconds=86400&theme=tokyonight&title_color=00F7FF" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SanjhLadhani&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
 </p>
 
-<!-- ══════════════════════════════ NOW ══════════════════════════════ -->
+<!-- ═══════════════════════════════════ ACHIEVEMENTS ═══════════════════════════════════ -->
+
+## 🏆 Achievements & Certifications
+
+- 🥇 **1st Place, Oral Presentation** — Annual Research & Innovation Conclave (ARIC) 2024–25
+- 🎖️ **Prerna Award** for Academic Excellence
+- 🏅 **All-Time Ranker** — Gujarat University (CGPA 8.94)
+- 📜 **Deep Learning** — NVIDIA · **AI Data Engineer** — Reliance Foundation · **Data Science** — Cisco Networking Academy
+
+<!-- ═══════════════════════════════════ NOW ═══════════════════════════════════ -->
 
 ## 🧠 Currently Working On
 
 - 🤖 AI Calling systems & intelligent automation
-- 🧩 LLM-based workflows and agents
+- 🧩 LLM-based workflows, RAG & agents
 - 🔍 Real-time AI video analytics
-- ⚡ Production-grade ML systems
+- ⚡ Production-grade ML pipelines
 
-<!-- ══════════════════════════════ FOOTER ══════════════════════════════ -->
+<!-- ═══════════════════════════════════ FOOTER ═══════════════════════════════════ -->
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sanjh-ladhani-data-science"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://sanjhladhani.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=firefoxbrowser&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://www.kaggle.com/sanjhladhani"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://x.com/SanjhLadhani"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:sanjhladhani2020@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
