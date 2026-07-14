@@ -1,0 +1,40 @@
+name: Generate Metrics
+
+on:
+  # Refresh twice a day
+  schedule:
+    - cron: "0 */12 * * *"
+  # Let you trigger it manually from the Actions tab
+  workflow_dispatch:
+  # Also run whenever you push to main
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # A personal access token you create and store as a repo secret (see setup notes)
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SanjhLadhani
+          filename: github-metrics.svg
+          config_timezone: Asia/Kolkata
+
+          # --- Card contents ---
+          base: header
+
+          # Top languages breakdown
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+
+          # 3D isometric contribution calendar (the eye-catching one)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
