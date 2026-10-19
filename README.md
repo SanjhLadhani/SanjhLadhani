@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════════ BANNER ═══════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Sanjh%20Ladhani&fontSize=62&fontAlignY=36&desc=LLM%20Systems%20%C2%B7%20RAG%20%C2%B7%20Agentic%20AI&descSize=22&descAlignY=58&animation=fadeIn" alt="Sanjh Ladhani — LLM Systems, RAG, Agentic AI" />
+  <img src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/main/banner.svg" width="100%" alt="Sanjh Ladhani — LLM Systems, RAG, Agentic AI" />
 </p>
 
 <p align="center">
@@ -45,6 +45,8 @@
 
 ## 👩‍💻 Who I Am
 
+<img align="right" width="150" src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/main/g9r1bfyqxdrmt0cxn8prpfcy9w.gif" alt="coding animation" />
+
 I'm an **AI/ML Engineer & Data Scientist** who turns unstructured, messy information into systems that **understand, decide, and act**. My work sits at the intersection of **research, engineering, and automation** — LLM pipelines, RAG, agentic workflows, voice AI and real-time computer vision.
 
 | | |
@@ -53,6 +55,8 @@ I'm an **AI/ML Engineer & Data Scientist** who turns unstructured, messy informa
 | 🧠 **Before** | **AI Intern** @ **Brainy Neurals** — computer vision & real-time inference on AWS · *Nov 2025 → Mar 2026* |
 | 🎓 **Learning** | **MSc Data Science** @ Institute of Advanced Research (CGPA **9.4**) · **BCA** Gujarat University, *All-Time Ranker* (CGPA **8.94**) |
 | 🏆 **Recognition** | 1st Place — ARIC 2024–25 · Prerna Award for Academic Excellence |
+
+<br clear="right"/>
 
 <!-- ═══════════════════════════════════ ARCHITECTURE ═══════════════════════════════════ -->
 
@@ -224,4 +228,6 @@ flowchart LR
 
 <p align="center"><i>Real-world AI — not just notebooks.</i> ⚡</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/main/footer.svg" width="100%" alt="Let's build something real" />
+</p>
