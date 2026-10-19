@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════════ BANNER ═══════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/main/banner.svg" width="100%" alt="Sanjh Ladhani — LLM Systems, RAG, Agentic AI" />
+  <img src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/main/banner.svg?v=2" width="100%" alt="Sanjh Ladhani — LLM Systems, RAG, Agentic AI" />
 </p>
 
 <p align="center">
@@ -229,5 +229,5 @@ flowchart LR
 <p align="center"><i>Real-world AI — not just notebooks.</i> ⚡</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/main/footer.svg" width="100%" alt="Let's build something real" />
+  <img src="https://raw.githubusercontent.com/SanjhLadhani/SanjhLadhani/main/footer.svg?v=2" width="100%" alt="Let's build something real" />
 </p>
