@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Let's build something real">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b16"/><stop offset=".55" stop-color="#0e0a24"/><stop offset="1" stop-color="#04182a"/></linearGradient>
+<linearGradient id="bord" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00F7FF"/><stop offset=".5" stop-color="#8A2BE2"/><stop offset="1" stop-color="#ff4fd8"/></linearGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#7df9ff" stroke-opacity=".06" stroke-width="1"/></pattern>
+<filter id="glow" x="-20%" y="-80%" width="140%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="clip"><rect width="1200" height="150" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="150" fill="url(#bg)"/><rect width="1200" height="150" fill="url(#grid)"/>
+<path d="M0 118 L60 118 L80 118 L88 110 L96 132 L106 84 L116 124 L120 118 L180 118 L200 118 L208 110 L216 132 L226 84 L236 124 L240 118 L300 118 L360 118 L380 118 L388 110 L396 132 L406 84 L416 124 L420 118 L440 118 L448 110 L456 132 L466 84 L476 124 L480 118 L500 118 L508 110 L516 132 L526 84 L536 124 L540 118 L600 118 L660 118 L680 118 L688 110 L696 132 L706 84 L716 124 L720 118 L740 118 L748 110 L756 132 L766 84 L776 124 L780 118 L840 118 L860 118 L868 110 L876 132 L886 84 L896 124 L900 118 L960 118 L980 118 L988 110 L996 132 L1006 84 L1016 124 L1020 118 L1040 118 L1048 110 L1056 132 L1066 84 L1076 124 L1080 118 L1140 118 L1160 118 L1168 110 L1176 132 L1186 84 L1196 124 L1200 118" fill="none" stroke="#8fd9ff" stroke-opacity=".12" stroke-width="1.5"/>
+<path d="M0 118 L60 118 L80 118 L88 110 L96 132 L106 84 L116 124 L120 118 L180 118 L200 118 L208 110 L216 132 L226 84 L236 124 L240 118 L300 118 L360 118 L380 118 L388 110 L396 132 L406 84 L416 124 L420 118 L440 118 L448 110 L456 132 L466 84 L476 124 L480 118 L500 118 L508 110 L516 132 L526 84 L536 124 L540 118 L600 118 L660 118 L680 118 L688 110 L696 132 L706 84 L716 124 L720 118 L740 118 L748 110 L756 132 L766 84 L776 124 L780 118 L840 118 L860 118 L868 110 L876 132 L886 84 L896 124 L900 118 L960 118 L980 118 L988 110 L996 132 L1006 84 L1016 124 L1020 118 L1040 118 L1048 110 L1056 132 L1066 84 L1076 124 L1080 118 L1140 118 L1160 118 L1168 110 L1176 132 L1186 84 L1196 124 L1200 118" fill="none" stroke="url(#bord)" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="180 1500" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-1680" dur="5s" repeatCount="indefinite"/></path>
+<text x="600.0" y="58" text-anchor="middle" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#e8f9ff">Let's build something real.</text>
+<text x="600.0" y="86" text-anchor="middle" font-family="Fira Code, Consolas, Menlo, Courier New, monospace" font-size="13" fill="#00F7FF" opacity=".9">$ ./connect --email sanjhladhani2020@gmail.com</text>
+</g>
+<rect x="1" y="1" width="1198" height="148" rx="20" fill="none" stroke="url(#bord)" stroke-width="1.5" stroke-opacity=".7"/>
+</svg>
